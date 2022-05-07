@@ -1,1 +1,2 @@
-https://docs.google.com/document/d/1WPGv12dCvIWebCiWAlokMmVnqOGBAKet8jde5Eh_KaU/edit?usp=sharing
+sdk: https://www.intelrealsense.com/sdk-2/
+python library: https://pypi.org/project/pyrealsense2/
