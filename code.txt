@@ -1,2 +1,4 @@
 sdk: https://www.intelrealsense.com/sdk-2/
 python library: https://pypi.org/project/pyrealsense2/
+
+rosrun pkg_cv_ros_tutorial_by_dhanuzch camera_read.py
