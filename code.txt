@@ -1,1 +1,1 @@
-git clone https://github.com/dhanuzch/pkg_cv_ros_tutorial_by_dhanuzch.git
+https://docs.google.com/document/d/1WPGv12dCvIWebCiWAlokMmVnqOGBAKet8jde5Eh_KaU/edit?usp=sharing
